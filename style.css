@@ -101,6 +101,7 @@ body{
     flex-direction: column;
 }
 .search{
+    visibility: hidden;
     display: flex;
     height: 50px;
     width: 55vw;
