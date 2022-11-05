@@ -77,10 +77,6 @@ body{
     background-color: white;
     border-radius: 5px;
 }
-
-
-/* Aryan Editing Space starts here*/
-
 #hero{
     height: 350px;
     background: url("./assets/hero-bg.jpg") center;
@@ -205,13 +201,6 @@ body{
     color: rgb(56,56,56);
     letter-spacing: 0.7px;
 }
-
-
-
-
-
-/* Aryan Editing Space ends here*/
-
 
 
 .hero-text{
